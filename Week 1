@@ -7,7 +7,11 @@
     <title>Document</title>
 </head>
 <body>
+<h1>Hello World</h1>
 
+<p>This is a sample page for INFO20005: UI Development</p>
+
+<h2>* this is a test column *</h2>
 
 </body>
 </html>
